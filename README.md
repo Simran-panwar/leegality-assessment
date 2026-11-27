@@ -2,6 +2,8 @@
 
 A responsive e-commerce product listing and detail experience built with React, TypeScript, and Vite. Product data and categories are loaded from the public [DummyJSON Products API](https://dummyjson.com/docs/products).
 
+**Author:** Simran Panwar
+
 ## Run locally
 
 1. Install Node.js 20 or newer.
